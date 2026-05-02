@@ -3,7 +3,7 @@
 
 ###### tags: `netology` `advanced js in html`
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qhf53o1349o5d867?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ahj-workers-loading-styling-frontend)
+[![*Chaos Organizer* Build status](https://ci.appveyor.com/api/projects/status/qhf53o1349o5d867?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ahj-workers-loading-styling-frontend)
 
 [![Github Pages](HW_ahj_workers_Loading_styling_Frontend)]
 
